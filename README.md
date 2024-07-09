@@ -58,4 +58,4 @@ To get started with Taskify, clone the repository and install the dependencies:
 6. Open your browser and navigate to `http://localhost:3000` to access the platform.
 
 ## License
-Taskify is open-source software licensed under the MIT license.
+This project is licensed under the [MIT License](LICENSE).
